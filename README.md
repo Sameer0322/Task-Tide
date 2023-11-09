@@ -55,7 +55,12 @@ $ npm install
 #Start frontend
 $ npm start
 ```
-
+## Samples 
+Sample 1
 ![Sample 1](https://github.com/Sameer0322/ToDo-App/blob/main/Sample/Screenshot%20(186).png)
 
+Sample 2
+![Sample 1](https://github.com/Sameer0322/ToDo-App/blob/main/Sample/Screenshot%20(187).png)
 
+Sample 3
+![Sample 1](https://github.com/Sameer0322/ToDo-App/blob/main/Sample/Screenshot%20(188).png)
