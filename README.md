@@ -56,6 +56,6 @@ $ npm install
 $ npm start
 ```
 
-
+![Sample 1](https://github.com/Sameer0322/ToDo-App/blob/main/Sample/Screenshot%20(186).png)
 
 
