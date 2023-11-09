@@ -32,7 +32,7 @@ $ npm init
 4. Create database named "ToDo"
 5. Create a cluster named "todos" in the "ToDo" database
 6. Install MongoDB Compass (MongoDB GUI)
-7. Copy and paste the connection string in the ".env" file inside backend directory
+7. Copy and paste the connection string in the ".env" inside the variable " MONGODB_URL" file inside backend directory
 8. Run the following command to start the server
 bash
 ```bash
