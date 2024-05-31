@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const baseUrl = "http://localhost:5000"
+const baseUrl = "todo-app-two-woad-69.vercel.app"
 
 const getAllToDo = (setToDo)=>{
     axios
